@@ -18,10 +18,11 @@ const App = () => {
     <>
     <div className="App">
       <h1 className="Header">React Wars</h1>
+      <img src="https://cdn.pixabay.com/photo/2017/06/03/18/21/star-wars-2369317_960_720.png"/>
     </div>
     
     <CharaGrid/>
-   
+    
     </>
 
   );
