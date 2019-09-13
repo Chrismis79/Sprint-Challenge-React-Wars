@@ -3,7 +3,7 @@ import axios from "axios";
 import CharaCard from "./CharaCard";
 import styled from "styled-components";
 
-const CardsContainer = styled.div`
+export const CardsContainer = styled.div`
   
   display: flex;
   flex-direction: row;

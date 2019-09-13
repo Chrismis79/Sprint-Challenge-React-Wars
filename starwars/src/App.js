@@ -3,7 +3,7 @@ import './App.css';
 
 
 import CharaGrid from "../src/components/CharaGrid";
-
+// import StretchGrid from "../src/components/StretchGrid";
 
 const App = () => {
   // Try to think through what state you'll need for this app before starting. Then build out
@@ -22,6 +22,8 @@ const App = () => {
     </div>
     
     <CharaGrid/>
+    {/* <StretchGrid/> */}
+
     
     </>
 
